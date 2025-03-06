@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Drinks_IMDB (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Drinks_IMDB (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
